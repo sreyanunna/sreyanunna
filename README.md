@@ -1,16 +1,23 @@
-### Hi there 👋
+📊 Welcome to the realm of data wizardry! 🎩✨
 
-<!--
-**sreyanunna/sreyanunna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I'm Sreya, a data enthusiast and aspiring data analyst on a mission to turn raw numbers into compelling insights! 📈💡
 
-Here are some ideas to get you started:
+🚀 Currently I am building the rocket to jump into the universe of Analytics!🌟
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a firm believer that every data point has a tale to tell, and I'm here to bring those narratives to life.
+
+💻 My analytical toolbox includes:
+  - Data Visualization: Tableau, Matplotlib, Seaborn
+  - Data Wrangling: Pandas, SQL
+  - Statistical Analysis: R, Python
+  - BI Tools: Power BI
+
+🔍 Always exploring new statistical models and machine learning techniques to unravel hidden patterns and trends in data.
+
+🚀 Actively engaged in the data science community, participating in hackathons, and constantly seeking opportunities to hone my analytical skills.
+
+🎓 2023 Graduate of Bachelors in Data Science 🎓
+
+📊 Let's crunch some numbers together! Whether it's a data challenge, a visualization project, or just a chat about the latest data trends, I'm always up for a data-driven adventure.
+
+📬 Connect with me at nunnasreya@gmail.com 📧 | let's unravel the stories hidden in the numbers! 🚀
