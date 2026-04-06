@@ -16,8 +16,8 @@ BI Tools: Power BI
 
 🚀 Actively engaged in the data science community, participating in hackathons, and constantly seeking opportunities to hone my analytical skills.
 
-🎓 Pursuing a Master's in Environmental Data Science & Machine Learning 🎓
+🎓 Graduate of Master's in Environmental Data Science & Machine Learning 🎓
 
 📊 Let's crunch some numbers together! Whether it's a data challenge, a visualization project, or just a chat about the latest data trends, I'm always up for a data-driven adventure.
 
-📬 Connect with me at nunnasreya@gmail.com 📧 | let's unravel the stories hidden in the numbers! 🚀
+📬 Connect with me at nunnasreya@gmail.com 📧 https://www.linkedin.com/in/sreyanunna/ | let's unravel the stories hidden in the numbers! 🚀
