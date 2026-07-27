@@ -1,6 +1,4 @@
-📊 Welcome to the realm of data wizardry! 🎩✨
-
-Hi, I'm Sreya, a data enthusiast and aspiring data analyst on a mission to turn raw numbers into compelling insights!
+Hi, I'm Sreya, a Graduate AI Engineer, and aspiring to become a carbon analyst.
 
 I'm a firm believer that every data point has a tale to tell, and I'm here to bring those narratives to life.
 
